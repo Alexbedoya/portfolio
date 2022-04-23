@@ -1,0 +1,19 @@
+.triangulo {
+    clip-path: polygon(50% 76%, 0 0, 100% 0);
+}
+
+.height100 {
+    height: 100px;
+}
+
+.height100per {
+    height: 100%;
+}
+
+.width100 {
+    width: 100%;
+}
+
+.margin-top20 {
+    margin-top: 20px;
+}

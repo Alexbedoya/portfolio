@@ -1,0 +1,31 @@
+.pt60 {
+    font-size: 50pt;
+}
+
+.pt30 {
+    font-size: 30pt;
+}
+
+.margin-top120 {
+    margin-top: 120px;
+}
+
+.margin-top80 {
+    margin-top: 80px;
+}
+
+.text-aling-center {
+    text-align: right;
+}
+
+.font-color {
+    color: white;
+}
+
+.cursiva {
+    font-family: MsMaidi-Regular;
+}
+
+.math {
+    font-family: math;
+}

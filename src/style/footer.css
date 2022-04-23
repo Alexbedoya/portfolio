@@ -1,0 +1,44 @@
+.shapeFooter {
+    clip-path: polygon(25% 12%, 55% 22%, 100% 13%, 100% 100%, 0 100%, 0 29%);
+    padding-bottom: 36px;
+}
+
+.height300 {
+    height: 300px;
+}
+
+.borderleft {
+    border-left: 1px solid;
+    color: black;
+}
+
+.socialmedia {
+    height: 50px;
+}
+
+.right {
+    text-align: right;
+}
+
+.copyrigth {
+    width: 130px;
+}
+
+.paddingtop140 {
+    padding-top: 140px;
+}
+
+.paddingtop20 {
+    padding-top: 20px;
+}
+
+.mail:link, a:visited {
+    color: black;
+}
+
+@media screen and (max-width: 600px) {
+
+    .footer{
+        text-align: center;
+    }
+}

@@ -1,0 +1,36 @@
+.baground-gradiend {
+    background: linear-gradient(90deg, #ffff 0%, #00ffff 35%, #00ccff 80%, #00afff 100%);
+}
+
+.height720 {
+    height: 720px;
+}
+
+.trapecio {
+    width: 250px;
+    height: 0px;
+    border-right: 60px solid transparent;
+    border-left: 60px solid transparent;
+    border-bottom: 100px solid #428bca;
+}
+
+.polygon {
+    -webkit-clip-path: polygon(0 14%, 100% 0, 100% 100%, 0 83%);
+    clip-path: polygon(0 14%, 100% 0, 100% 100%, 0 83%);
+}
+
+.pt30 {
+    font-size: 30pt;
+}
+
+.padding135 {
+    padding: 135px 0;
+}
+
+.justify {
+    text-align: justify;
+}
+
+.paddingtop30 {
+    padding-top: 30px;
+}
